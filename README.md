@@ -30,9 +30,7 @@ export default {
 </code></pre>
 
 5. Запустить приложение локально
-<pre><code>
-npm run dev
-</code></pre>
+<pre><code>npm run dev</code></pre>
 
 6.  Приложение доступно по адресу <a href="http://localhost:3000/list">http://localhost:3000</a>
 
