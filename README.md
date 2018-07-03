@@ -29,9 +29,12 @@ export default {
 };
 </code></pre>
 
-5. Запустить приложение локально
+5. Создать тестовые записи в базе данных с помощью команды
+<pre><code>npm run seed:classes</code></pre>
+ 
+6. Запустить приложение локально
 <pre><code>npm run dev</code></pre>
 
-6.  Приложение доступно по адресу <a href="http://localhost:3000/list">http://localhost:3000</a>
+7.  Приложение доступно по адресу <a href="http://localhost:3000/list">http://localhost:3000</a>
 
 <img src="https://user-images.githubusercontent.com/8204364/42196948-84ffa466-7e4e-11e8-9556-66cc77dc17ef.png"/>
